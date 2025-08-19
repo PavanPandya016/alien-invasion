@@ -19,8 +19,6 @@ In this game, the player controls a spaceship that must shoot down incoming alie
 
 ## 🖼️ Screenshots
 
-(Add screenshots of your game here – for example:)
-
 ![Gameplay Screenshot](screenshot.png)
 
 ---
@@ -30,7 +28,7 @@ In this game, the player controls a spaceship that must shoot down incoming alie
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/alien-invasion.git
+git clone https://github.com/PavanPandya016/alien-invasion.git
 cd alien-invasion
 ```
 
@@ -74,7 +72,7 @@ This project is based on the tutorial from the book:
 
 ## 👤 Author
 
-* **Your Name** – [GitHub Profile](https://github.com/your-username)
+* **Your Name** – [GitHub Profile](https://github.com/PavanPandya016)
 
 ---
 
@@ -84,4 +82,3 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-👉 Do you want me to also make a **fancy version with badges (Python, Pygame, MIT license, etc.)** so your repo looks more professional?
